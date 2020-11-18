@@ -1,0 +1,10 @@
+.Feature {
+    align-items: center;
+    display: flex;
+    width: 30%;
+}
+
+.Feature i {
+    font-size: 1.5rem;
+    margin: 0 1rem;
+}

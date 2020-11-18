@@ -1,0 +1,14 @@
+.FeaturesContainer {
+    margin: 5rem auto;
+}
+
+.FeaturesContainer h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.Features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
